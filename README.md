@@ -27,7 +27,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/sasikiran20/stocksimulator.git
+  git clone https://github.com/himavarshini2003/Stock_Management_System.git
 ```
 
 Go to the project directory
@@ -59,12 +59,6 @@ To stop the app, use the following command:
   docker-compose down 
 ```
 
-Run the Docker image in a container
-
-```bash
-  docker pull sasikirannallapu/kltrades
-  docker run -p 80:443 sasikirannallapu/kltrades
-```
 
 ## Features
 
@@ -72,14 +66,5 @@ Run the Docker image in a container
 - Live preview
 - Fullscreen mode
 - Cross platform
-
-
-## Authors
-
-- [Nirmal Ganesh](https://www.github.com/nirmalganesh11)
-- [Asish Tony](https://www.github.com/Asish-15)
-- [Vinod Babu](https://www.github.com/vinodbabuboddukuri)
-
-- [Yaswanth Arikatla](https://github.com/YaswanthArikatla)
 
 
